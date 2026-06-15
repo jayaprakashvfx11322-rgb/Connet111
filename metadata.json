@@ -1,0 +1,6 @@
+{
+  "name": "ConnectX",
+  "description": "ConnectX is a premium, Apple Liquid Glass-styled social media super-app combining rich posts, reels, long-form videos, messaging, creator tools, settings, and monetization analytics.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

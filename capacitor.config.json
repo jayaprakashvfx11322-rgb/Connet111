@@ -1,0 +1,8 @@
+{
+  "appId": "com.connectx.premium.social",
+  "appName": "ConnectX",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
